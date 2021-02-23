@@ -709,6 +709,13 @@ label {
 .col-xs-12 {
     padding-left: 0px;
     padding-right: 0px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.lightbox-caption {
+    text-align: center;
 }
 
 .whithout-space {
