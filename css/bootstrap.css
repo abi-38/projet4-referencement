@@ -1418,7 +1418,7 @@ a:focus {
 }
 
 figure {
-    margin: 0
+    margin: 0 20vw 0 20vw;
 }
 
 img {
@@ -1630,6 +1630,9 @@ p {
 @media (min-width:768px) {
     .lead {
         font-size: 21px
+    }
+    .figure {
+        margin: 0;
     }
 }
 
