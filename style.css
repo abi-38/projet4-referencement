@@ -42,6 +42,10 @@ blockquote {
     flex-direction: inline;
 }
 
+input:hover, select:hover, textarea:hover {
+    cursor: pointer;
+}
+
 /*Fin*/
 
 .center-block.image-resize-mode.logo {
